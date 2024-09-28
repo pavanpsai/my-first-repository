@@ -1,3 +1,5 @@
 # my-first-repository
+
 Here is my first github repository
-This is the editablke readme file after the first commit. This file was modified locally 
+
+This line was modified manually during the conflict.
