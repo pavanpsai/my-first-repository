@@ -1,3 +1,5 @@
 This file was cretaed in the remote repository.
 
 Making changes in the feature -2 branch.
+
+This line has replaced in feature-2 branch 
